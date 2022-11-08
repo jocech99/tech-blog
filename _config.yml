@@ -29,7 +29,8 @@ twitter_username: jocech99
 github_username:  jocech99
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: aterenin/minima-reboot
 plugins:
   - jekyll-feed
 
