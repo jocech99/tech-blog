@@ -5,4 +5,4 @@
 layout: page 
 ---
 
-[[/_posts/2022-11-09-migrate-domain-between-aws-accounts|Migrating a domain between AWS accounts]]
+[Migrating a domain between AWS accounts](/_posts/2022-11-09-migrate-domain-between-aws-accounts)
