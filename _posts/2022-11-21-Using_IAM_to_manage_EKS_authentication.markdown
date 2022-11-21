@@ -1,3 +1,8 @@
+---
+layout: blog
+title: Manage EKS authentication and authorization with IAM (Title)
+tags: AWS EKS kubernetes authentication authorization terraform Cloud
+---
 =Using IAM to manage EKS authentication=
 
 ==The problem==
