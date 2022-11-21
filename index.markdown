@@ -4,10 +4,11 @@
 layout: page 
 ---
 
-* [Migrating a domain between AWS accounts](/_posts/2022-11-09-migrate-domain-between-aws-accounts)
-* [Using IAM to manage EKS authentication](_posts/2022-11-21-Using_IAM_to_manage_EKS_authentication)
-{% for tag in site.tags %}
-=={{ tag[0] }}==
+* [Using IAM to manage EKS authentication]({% post_url 2022-11-09-migrate-domain-between-aws-accounts.markdown %}
+
+{% post_url 2010-07-21-name-of-post %}
+  {% for tag in site.tags %}
+   =={{ tag[0] }}==
   {% for post in tag[1] %}
    [{{ post.title }}]({{ post.url }})
   {% endfor %}
