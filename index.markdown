@@ -6,5 +6,5 @@ layout: page
 ---
 
 [Migrating a domain between AWS accounts](/_posts/2022-11-09-migrate-domain-between-aws-accounts)
-[Using IAM to manage EKS authentication](Using_IAM_to_manage_EKS_authentication)
+[Using IAM to manage EKS authentication](_posts/Using_IAM_to_manage_EKS_authentication)
 
