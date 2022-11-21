@@ -4,7 +4,7 @@
 layout: page 
 ---
 
-* [Using IAM to manage EKS authentication]({% post_url 2022-11-21-Using_IAM_to_manage_EKS_authentication %})
+* [Using IAM to manage EKS authentication]({{ {% post_url 2022-11-21-Using_IAM_to_manage_EKS_authentication %} | relative_url }})
 
 {% for tag in site.tags %}
    =={{ tag[0] }}==
