@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Migrate a domain between AWS accounts (Title)
 tags: AWS route53 AWSCLI Cloud
 ---
