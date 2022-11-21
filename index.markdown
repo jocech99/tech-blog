@@ -4,7 +4,7 @@
 layout: page 
 ---
 
-* [Using IAM to manage EKS authentication]({% post_url 2022-11-09-migrate-domain-between-aws-accounts.markdown %}
+* [Using IAM to manage EKS authentication]({% post_url 2022-11-09-migrate-domain-between-aws-accounts %}
 
 {% post_url 2010-07-21-name-of-post %}
   {% for tag in site.tags %}
