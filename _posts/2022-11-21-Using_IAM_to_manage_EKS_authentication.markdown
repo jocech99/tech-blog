@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Manage EKS authentication and authorization with IAM (Title)
-categories: AWS EKS kubernetes authentication authorization terraform Cloud
+tags: AWS EKS kubernetes authentication authorization terraform Cloud
 date:   2022-11-21 15:47:27 -0500
 ---
 =Using IAM to manage EKS authentication=
