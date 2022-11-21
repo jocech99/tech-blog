@@ -5,6 +5,7 @@ tags: AWS EKS kubernetes authentication authorization terraform Cloud
 date:   2022-11-21 15:47:27 -0500
 ---
 # Using IAM to manage EKS authentication
+blahs
 
 ## The problem
 You have a nice EKS cluster with beautifully crafted networking, managed with you favourite IaC (terraform in this article) and you are wondering how you can use AWS for authentication and authorization in your Kubernetes cluster, instead of manually managing auth with Kubernetes.
