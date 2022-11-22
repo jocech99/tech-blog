@@ -30,7 +30,7 @@ github_username:  jocech99
 
 # Build settings
 # theme: minima
-remote_theme: minimal
+theme: minimal
 plugins:
   - jekyll-feed
 
